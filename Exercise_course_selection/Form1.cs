@@ -17,6 +17,7 @@ namespace Exercise_course_selection
         SqlCommand cmd,cmd2;
         SqlDataReader read,data;
         int temp;
+        int i = 5;
         public Form1()
         {
             InitializeComponent();
